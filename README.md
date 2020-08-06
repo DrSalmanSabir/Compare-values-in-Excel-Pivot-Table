@@ -1,4 +1,4 @@
-# Comparison-PO-with-Pivot-Table
+# Compare values in Excel Pivot Table
 Comparison PO with Pivot Table
 
 I had to take all the Production of PO's residing in All Department Stock Report of Toe Linking and Press Department.
